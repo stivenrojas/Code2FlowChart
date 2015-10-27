@@ -14,7 +14,7 @@ import org.w3c.dom.Element;
 import org.xml.sax.SAXException;
 
 public class XmlTool {//xml reading class
-    
+    //////////////////////////////
     private ArrayList<String> stringelements;//attribute that containts each element of the xml.
      
     public XmlTool(){//constructor.
