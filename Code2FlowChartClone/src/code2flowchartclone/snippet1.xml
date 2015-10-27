@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<snippets>
+<snippet id="snippet1" principal="true" lenguaje="java">
+System.out.println("A continuacion el reporte del clima");
+_snippet2();
+System.out.println("Fin del reporte del clima");
+</snippet>
+<snippet id="snippet2" principal="false" lenguaje="java">
+int temperatura = 30;
+if (temperatura > 25) {
+System.out.println("Dia caluroso");
+}
+else {
+System.out.println("Dia frio");
+}
+</snippet>
+</snippets>
